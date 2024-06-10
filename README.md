@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @srivastavankur1
-- 👀 I’m interested in ML & AI
-- 🌱 I’m currently learning Machine Learning
-- 💞️ Excited to collaborate on machine learning projects! Let's innovate together 
-- 📫 Feel free to connect with me on LinkedIn: ankursrivastava1
-- ⚡ Fun fact: I weave words into tapestries, crafting emotions with every verse
+🙏 Greetings!
+I am Ankur Srivastava, enthusiastic and motivated recently pursuing Bachelor's degree in Computer Science with a strong focus on machine learning and data analysis. Proficient in programming languages such as Python and c++, with hands-on experience in implementing machine learning algorithms and techniques. showcasing expertise in areas such as regression, classification, and clustering. Possess a solid foundation in statistical analysis and data visualisation. Eager to apply academic knowledge and gain practical experience as a machine learning intern to contribute to cutting-edge projects and further develop skills in artificial intelligence and data science.
 
-<!---
-srivastavankur1/srivastavankur1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Please feel free to contact me via Linkedin. I'm always looking forward to an insightful conversation over AI & ML & work on such projects.
